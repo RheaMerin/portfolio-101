@@ -1,0 +1,130 @@
+body{
+    text-align: center;
+    margin: 0;
+}
+.top{ 
+    background-color: #EAF6F6;
+    margin: 0;
+    height: 50%;
+
+}
+.bottomcloud{
+    padding: 60px;
+
+}
+.topcloud{
+    padding-top: 45px;
+    padding-right: 100px;
+}
+p{
+    margin:0;
+    font-family: Merienda One;
+}
+h1 , h2, h3, h4, h5 h6{
+    font-family: Merienda One;
+    color: #40514E;
+}
+h3{
+    color: #11999E;
+    font-weight: normal;
+    line-height: 2;
+}
+a{
+    color: #ffffff;
+    font-weight: normal;
+    line-height: 2;
+    margin-right: 20px;
+    font-size: 15px;
+    font-family: Merienda One;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.profile>p, .contact-me>p{
+    width:50%;
+    margin: auto;
+    line-height: 2;
+}
+.name{
+    font-size: 4rem;
+    font-weight: 900;
+}
+.top>p{
+    font-family: Sacramento;
+    font-size: 70px;
+    color:#003b46;
+    font-weight: 500;
+}
+.img1{
+    width: 200px;
+    float: left;
+    margin-right: 30px;
+    margin-top: 30px;
+}
+.img2{
+    width: 200px;
+    float: right;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.bottom{
+    background-color:#66BFBF;
+    line-height: 3;
+    margin-top: 40px;
+}
+.one{
+    padding-top: 20px;
+}
+.two{
+    padding-top: 20px;
+}
+.me{
+    padding-top: 50px;
+}
+.descrip{
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+.bottom>p{
+    color: #40514E;
+}
+.contact-me{
+    margin:3rem;
+}
+.BUTTON_NTK {
+    margin: 30px;
+    -webkit-border-radius: 98px;
+    -moz-border-radius: 98px;
+    border-radius: 98px;
+    height: 0;
+    line-height: 0;
+    color: #FFFFFF;
+    font-family: Brush Script MT;
+    width: 74px;
+    font-size: 27px;
+    font-weight: 100;
+    padding: 24px;
+    background-color: #11999E;
+    
+    text-shadow: 1px 1px 20px #000000;
+    border: solid #11999E 0;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .BUTTON_NTK:hover {
+    background: #0C0C0C;
+    border: none;
+    -webkit-box-shadow: 1px 1px 20px 0 #000000;
+    -moz-box-shadow: 1px 1px 20px 0 #000000;
+    box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    border-radius: 100px;
+    text-decoration: none;
+ }
